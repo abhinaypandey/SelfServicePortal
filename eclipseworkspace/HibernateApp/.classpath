@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/Users/pandabhi/eclipseworkspace/HibernateApp/lib/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pandabhi/eclipseworkspace/HibernateApp/lib/bcpg-jdk15on-150.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pandabhi/eclipseworkspace/HibernateApp/lib/bcprov-jdk15on-150.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pandabhi/eclipseworkspace/HibernateApp/lib/c3p0-0.9.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pandabhi/eclipseworkspace/HibernateApp/lib/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pandabhi/eclipseworkspace/HibernateApp/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pandabhi/eclipseworkspace/HibernateApp/lib/hibernate3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pandabhi/eclipseworkspace/HibernateApp/lib/hibernate-annotations-3.4.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pandabhi/eclipseworkspace/HibernateApp/lib/hibernate-commons-annotations-3.3.0.ga.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pandabhi/eclipseworkspace/HibernateApp/lib/hibernate-core-3.3.1.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pandabhi/eclipseworkspace/HibernateApp/lib/hibernate-entitymanager-3.4.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pandabhi/eclipseworkspace/HibernateApp/lib/hibernate-validator-5.1.3.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pandabhi/eclipseworkspace/HibernateApp/lib/hibernate-validator-annotation-processor-5.1.3.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pandabhi/eclipseworkspace/HibernateApp/lib/hibernate-validator-cdi-5.1.3.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pandabhi/eclipseworkspace/HibernateApp/lib/j2ee.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pandabhi/eclipseworkspace/HibernateApp/lib/javassist.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pandabhi/eclipseworkspace/HibernateApp/lib/javax.persistence_2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pandabhi/eclipseworkspace/HibernateApp/lib/javax.servlet-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pandabhi/eclipseworkspace/HibernateApp/lib/jndi.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pandabhi/eclipseworkspace/HibernateApp/lib/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pandabhi/eclipseworkspace/HibernateApp/lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pandabhi/eclipseworkspace/HibernateApp/lib/mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pandabhi/eclipseworkspace/HibernateApp/lib/mysql-connector-java-5.1.23-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pandabhi/eclipseworkspace/HibernateApp/lib/quartz-2.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pandabhi/eclipseworkspace/HibernateApp/lib/quartz-jobs-2.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pandabhi/eclipseworkspace/HibernateApp/lib/resolver.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pandabhi/eclipseworkspace/HibernateApp/lib/serializer.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pandabhi/eclipseworkspace/HibernateApp/lib/servlet.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pandabhi/eclipseworkspace/HibernateApp/lib/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pandabhi/eclipseworkspace/HibernateApp/lib/slf4j-api-1.6.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pandabhi/eclipseworkspace/HibernateApp/lib/slf4j-log4j12-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pandabhi/eclipseworkspace/HibernateApp/lib/slf4j-log4j12-1.6.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pandabhi/eclipseworkspace/HibernateApp/lib/xerces-2.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pandabhi/eclipseworkspace/HibernateApp/lib/xercesImpl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pandabhi/eclipseworkspace/HibernateApp/lib/xercesSamples.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pandabhi/eclipseworkspace/HibernateApp/lib/xml-apis.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

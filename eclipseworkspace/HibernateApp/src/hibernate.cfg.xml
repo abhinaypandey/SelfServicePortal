@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE hibernate-configuration PUBLIC
+          "-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+          "http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
+
+<hibernate-configuration>
+	<session-factory>
+
+	    <property name="hibernate.connection.datasource">jdbc/getresp</property>
+        <property name="jndi.url">t3://16.175.13.17:7001</property>
+        <property name="jndi.class">weblogic.jndi.WLInitialContextFactory</property>
+		<property name="show_sql">true</property> 
+		<property name="format_sql">true</property>
+		<property name="hibernate.dialect">org.hibernate.dialect.MySQLDialect</property>
+		<property name="hibernate.hbm2ddl.auto">update</property>
+
+		<mapping class="com.amgen.getResponse.entity.userProfileManagement.Login" />
+		<mapping class="com.amgen.getResponse.entity.campaign.Channel" />
+		<mapping class="com.amgen.getResponse.entity.campaign.Product" />
+		<mapping class="com.amgen.getResponse.entity.userProfileManagement.User" />
+		
+		<mapping class="com.amgen.getResponse.entity.campaign.Campaign" />
+		<mapping class="com.amgen.getResponse.entity.campaign.UserSubscription" />
+	</session-factory>
+</hibernate-configuration>
